@@ -1,1 +1,1 @@
-The purpose of this sheet was to provide fantasy baseball points projections of MLB players for the upcoming 2024 season.  In it, I showcase my knowledge and familiarity of various fuunctions withing excel, such as VLOOKUP's, conditional formatting, and RANK.
+The purpose of this sheet was to provide fantasy baseball points projections of MLB players for the upcoming 2024 season.  In it, I showcase my knowledge and familiarity of various functions and features within Excel, such as VLOOKUP's, conditional formatting, and RANK.  
